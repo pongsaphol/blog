@@ -32,7 +32,7 @@ const Meta = () => {
       <meta name="msapplication-config" content="/favicon/browserconfig.xml" />
       <meta name="theme-color" content="#000" />
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
-      <meta name="description" content="IAMMARKPS's blog" />
+      <meta name="description" content="PONGSAPHOL's blog" />
       <meta property="og:image" content={`${SITE_URL}/og.png`} key="og:image" />
     </Head>
   )

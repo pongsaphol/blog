@@ -35,7 +35,7 @@ const Post = ({ post, morePosts, preview }: Props) => {
           <>
             <article className="mb-32">
               <Head>
-                <title>{post.title} | iammarkps</title>
+                <title>{post.title} | pongsaphol</title>
                 <meta
                   property="og:image"
                   content={`${SITE_URL}${post.ogImage.url}`}
