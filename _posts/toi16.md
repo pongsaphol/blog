@@ -17,7 +17,7 @@ ogImage:
 การที่คุณ (สอวน) มีจุดประสงค์เพื่อยกระดับอะไรก็ว่ากันไปผมค่อนข้างสนับสนุนด้วย ปากบอกว่ายกระดับแต่คุณภาพโจทย์ยิ่งมายิ่งห่วยลง ไม่เพียงเท่านั้นโจทย์ยังมีปัณหาเรื่องความถูกต้องอีกและทางผมพึ่งมาเจอหลังจากงานจบแล้ว ผมค่อนข้างมั่นใจว่าคนที่ได้รับผลกระทบจากความผิดพลาดของคุณคงมีไม่น้อย
 
 ## outline ปัญหาที่เจอตอนนี้
-- dinocell ค่า K ไม่ตรงเงื่อนไข (ref: https://beta.programming.in.th/submissions/E4jbMMjNmQc1P4RySGYu)
+- dinocell ค่า K ไม่ตรงเงื่อนไข ([ref](https://beta.programming.in.th/submissions/E4jbMMjNmQc1P4RySGYu))
 - dinocell official solution ผิด testcase #6 
 - watertruck pdf sample #1 input ผิดเงื่อนไข
 - outbreak sample #3 output น่าจะผิด ควรตอบ 0\n3
