@@ -2,7 +2,7 @@
 title: 'วิจารณ์ระบบ TOI ฉบับคนที่ไม่ได้แข่ง'
 excerpt: 'Thailand Olympiad in Informatics คือการแข่งขันคอมพิวเตอร์โอลิมปิกระดับชาติเพื่อคัดนักเรียนประมาณ 25 คนเข้าค่าย สสวท. เพื่อเป็นตัวแทนประเทศต่อไป'
 coverImage: '/assets/blog/toi16/poster.jpg'
-date: '2020-12-08T09:05:27.322Z'
+date: '2020-12-16T10:25:27.322Z'
 author:
   name: Pongsaphol
   picture: '/assets/blog/authors/win11905.jpeg'
